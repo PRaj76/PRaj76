@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pankaj Vishwakarma</h1>
 <h3 align="center">Python🐍 Machine Learning🤖 Data Science🥼 Data Engineering🧑 Computer Vision🖥️ NLP🤍 Business Problems🚀</h3>
-<img align="right" alt="Coding" width="400" src"https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Fcca31a40477ba1caa1408d1640638e18af451234766b28dd27cb77100ad5eb11%2F68747470733a2f2f6765746c656f6e2e61692f696d672f6865726f2d616e696d6174696f6e2e676966&tbnid=-jrRy2PDaaQglM&vet=12ahUKEwj84qCEqNaAAxXtz6ACHbXqANYQMyggegUIARDbAg..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fleon-ai%2Fleon&docid=gYK9IR-TVXR3RM&w=800&h=450&q=animated%20coding%20gif%20for%20github&hl=en&ved=2ahUKEwj84qCEqNaAAxXtz6ACHbXqANYQMyggegUIARDbAg"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praj76&label=Profile%20views&color=0e75b6&style=flat" alt="praj76" /> </p>
 
